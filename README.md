@@ -7,4 +7,4 @@
 ##### Section: 12
 ##### Summer 2021
 
-## Topic: Classification of Respiratory Diseases using Machine Learning
+## Topic: Classification of Respiratory Diseases using Convolutional Neural Network
