@@ -5,6 +5,6 @@
 ##### 2. Md. Jushraf Rahman Chowdhury - 1812901042
 ##### Course: CSE499
 ##### Section: 12
-##### Summer 2021
+##### Fall 2021
 
 ## Topic: Classification of Respiratory Diseases using Convolutional Neural Network
